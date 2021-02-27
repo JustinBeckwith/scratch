@@ -8,11 +8,7 @@
 [![npm version](https://img.shields.io/npm/v/@google-cloud/bigquery.svg)](https://www.npmjs.org/package/@google-cloud/bigquery)
 [![codecov](https://img.shields.io/codecov/c/github/googleapis/nodejs-bigquery/master.svg?style=flat)](https://codecov.io/gh/googleapis/nodejs-bigquery)
 
-<div style="background-color:#e1f5fe; padding: 20px;">
-This API is covered by the <a href="https://cloud.google.com/terms">GA Offerings Terms</a> of the Google Cloud Platform Terms of Service.
-</div>
-
-
+<img src="banner.svg" width="800" height="100">
 
 Google BigQuery Client Library for Node.js
 
