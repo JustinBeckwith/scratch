@@ -1,0 +1,10 @@
+contact_links:
+  - name: Google Cloud Support
+    url: https://cloud.google.com/support/
+    about: If you have a support contract with Google, please use the Google Cloud Support portal.
+  - name: Google Cloud Datastore API Issue Tracker
+    url: https://issuetracker.google.com/savedsearches/559768
+    about: If you are having a problem with the Datastore API unrelated to the client library, please start here.
+  - name: Stack Overflow
+    url: https://stackoverflow.com/questions/tagged/google-cloud-datastore
+    about: If you have a general question about Datastore, please use Stack Overflow.
